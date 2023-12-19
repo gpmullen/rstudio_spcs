@@ -1,5 +1,6 @@
 # rstudio_spcs
 An Example of deploying R Studio via Docker into Snowpark Container Services (SPCS)
+For context visit: https://medium.com/snowflake/accessing-snowflake-with-r-studio-via-odbc-on-spcs-546ccc9067ef
 
 * create snowflake assets first and grab the repo url.
 * clone https://github.com/rocker-org/rocker-versioned2/tree/master
